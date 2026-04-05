@@ -1,4 +1,4 @@
-# ⏱️ Simple Stopwatch
+# ⏱️ Simple Stopwatch Exercise
 
 ## ✨ Features
 * **Start/Stop:** Precise time tracking.
